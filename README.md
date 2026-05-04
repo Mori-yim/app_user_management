@@ -18,7 +18,7 @@ Développer une application de gestion d’utilisateurs :
 
 ---
 
-## 🧠 Architecture MVC expliquée simplement
+##  Architecture MVC expliquée simplement
 
 | Couche | Rôle | Exemple dans le projet |
 |--------|------|------------------------|
@@ -35,7 +35,7 @@ Développer une application de gestion d’utilisateurs :
 
 - **Java 17** ou supérieur
 - **Maven 3.8+**
-- **MySQL 8** (uniquement pour la version 2)
+- **MySQL 8** (pour la version 2)
 - Git (optionnel, pour cloner)
 
 ---
