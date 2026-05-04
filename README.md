@@ -31,7 +31,7 @@ Développer une application de gestion d’utilisateurs :
 
 ---
 
-## 🔧 Prérequis
+##  Prérequis
 
 - **Java 17** ou supérieur
 - **Maven 3.8+**
